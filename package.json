@@ -1,0 +1,17 @@
+{
+  "name": "demo-direction-aware-hover-effect",
+  "scripts": {
+    "css": "sass src/style.scss dist/style.css",
+    "watch:css": "sass --watch src/style.scss:dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeldelgado/demo-direction-aware-hover-effect.git"
+  },
+  "author": "Noel Delgado <auhcsei@gmail.com> (http://pixelia.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noeldelgado/demo-direction-aware-hover-effect/issues"
+  },
+  "homepage": "https://github.com/noeldelgado/demo-direction-aware-hover-effect"
+}
