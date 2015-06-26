@@ -2,7 +2,8 @@
   "name": "demo-direction-aware-hover-effect",
   "scripts": {
     "css": "sass src/style.scss dist/style.css",
-    "watch:css": "sass --watch src/style.scss:dist/style.css"
+    "watch:css": "sass --watch src/style.scss:dist/style.css",
+    "dist": "postcss -u autoprefixer -o dist/style.css dist/style.css"
   },
   "repository": {
     "type": "git",
